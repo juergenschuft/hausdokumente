@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Kellerplan.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.36391344"
+     inkscape:cx="680.10679"
+     inkscape:cy="741.93468"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="346.23618"
+       y="989.24623"
+       width="1266.7848"
+       height="247.31156"
+       id="rect32146" />
+    <rect
+       x="291.62155"
+       y="937.03602"
+       width="32.287898"
+       height="55.645101"
+       id="rect20414" />
+    <rect
+       x="958.90165"
+       y="484.79425"
+       width="151.07316"
+       height="85.980544"
+       id="rect3919" />
+    <rect
+       x="958.90167"
+       y="484.79425"
+       width="279.31532"
+       height="106.38271"
+       id="rect3919-9" />
+    <rect
+       x="958.90167"
+       y="484.79425"
+       width="151.07317"
+       height="85.980545"
+       id="rect3919-4" />
+    <rect
+       x="958.90167"
+       y="484.79425"
+       width="209.80967"
+       height="150.55634"
+       id="rect3919-4-8" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Vorlage"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       width="589.4856"
+       height="300.97037"
+       preserveAspectRatio="none"
+       style="stroke-width:1.55074;image-rendering:optimizeSpeed"
+       xlink:href="Kellerplan.bauamtlich.1980-12-11%20Band%20I.jpg"
+       id="image21"
+       x="-29.98703"
+       y="-9.1756678" />
+  </g>
+  <g
+     inkscape:label="Mauern"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1218"
+       width="84"
+       height="221.5"
+       x="309.5"
+       y="26" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1322"
+       width="84"
+       height="33"
+       x="309.5"
+       y="185" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1322-2"
+       width="84"
+       height="37.5"
+       x="309.5"
+       y="120.00001" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1322-2-5"
+       width="84"
+       height="27.5"
+       x="309.5"
+       y="56" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1481"
+       width="36.5"
+       height="85"
+       x="26"
+       y="65" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1483"
+       width="146.5"
+       height="67.5"
+       x="62.5"
+       y="82.5" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stroke-linecap:square"
+       id="rect1485"
+       width="36.5"
+       height="85"
+       x="209"
+       y="65" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1487"
+       width="24.719702"
+       height="41.25"
+       x="284.75"
+       y="106.25" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489"
+       width="36.5"
+       height="84"
+       x="26"
+       y="170" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4"
+       width="36.5"
+       height="84"
+       x="242.75"
+       y="170" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6"
+       width="28"
+       height="67.5"
+       x="62.5"
+       y="170" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-3"
+       width="33"
+       height="67.5"
+       x="90.5"
+       y="170" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-3-4"
+       width="36.5"
+       height="42"
+       x="26"
+       y="212" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-2"
+       width="29.5"
+       height="67.5"
+       x="123.5"
+       y="170" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-0"
+       width="29.5"
+       height="67.5"
+       x="153"
+       y="170" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-4"
+       width="32.5"
+       height="67.5"
+       x="182.5"
+       y="170" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-9"
+       width="28"
+       height="67.5"
+       x="214.75"
+       y="170" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-9"
+       width="30.25"
+       height="84"
+       x="279.25"
+       y="170" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1491"
+       width="39.25"
+       height="26"
+       x="245.50002"
+       y="121.5" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1493"
+       width="31.5"
+       height="68"
+       x="278"
+       y="38.25" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1495"
+       width="32.5"
+       height="26.750002"
+       x="245.5"
+       y="38.25" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-30"
+       width="28"
+       height="67.5"
+       x="62.5"
+       y="82.5" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-5"
+       width="29.5"
+       height="67.5"
+       x="123"
+       y="82.5" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-23"
+       width="26.999998"
+       height="67.5"
+       x="182"
+       y="82.5" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1489-4-6-1"
+       width="29.999998"
+       height="19.999998"
+       x="16.5"
+       y="150" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.67275675,-0.64262764)"
+       id="text3917"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="958.90234"
+         y="520.18555"
+         id="tspan33792"><tspan
+           style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan33790">Aufzüge</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-232.58426,25.033368)"
+       id="text3917-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="958.90234"
+         y="520.18555"
+         id="tspan33796"><tspan
+           style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan33794">Rampe</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-224.38789,91.592882)"
+       id="text3917-9-6"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-4-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="958.90234"
+         y="520.18555"
+         id="tspan33800"><tspan
+           style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan33798">Druck-
+</tspan></tspan><tspan
+         x="958.90234"
+         y="570.18555"
+         id="tspan33804"><tspan
+           style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan33802">erhöhung</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,131.59513,368.2096)"
+       id="text3917-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="958.90234"
+         y="506.0293"
+         id="tspan33806">Treppenhaus</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text20412"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect20414)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text32144"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect32146);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="346.23633"
+         y="1024.6367"
+         id="tspan33808">evtl. im Ganzen noch um 90 oder 180° drehen?</tspan></text>
+  </g>
+</svg>
