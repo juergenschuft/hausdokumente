@@ -83,7 +83,7 @@
        height="300.97037"
        preserveAspectRatio="none"
        style="stroke-width:1.55074;image-rendering:optimizeSpeed"
-       xlink:href="Kellerplan.bauamtlich.1980-12-11%20Band%20I.jpg"
+       xlink:href="../../../Users/BKU/JuergenSchuft/Downloads/privat/kellerplan/Kellerplan.bauamtlich.1980-12-11%20Band%20I.jpg"
        id="image21"
        x="-29.98703"
        y="-9.1756678" />
@@ -274,9 +274,9 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="958.90234"
          y="520.18555"
-         id="tspan33792"><tspan
+         id="tspan33932"><tspan
            style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan33790">Aufzüge</tspan></tspan></text>
+           id="tspan33930">Aufzüge</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-232.58426,25.033368)"
@@ -284,9 +284,9 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="958.90234"
          y="520.18555"
-         id="tspan33796"><tspan
+         id="tspan33936"><tspan
            style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan33794">Rampe</tspan></tspan></text>
+           id="tspan33934">Rampe</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-224.38789,91.592882)"
@@ -294,15 +294,15 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-4-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="958.90234"
          y="520.18555"
-         id="tspan33800"><tspan
+         id="tspan33940"><tspan
            style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan33798">Druck-
+           id="tspan33938">Druck-
 </tspan></tspan><tspan
          x="958.90234"
          y="570.18555"
-         id="tspan33804"><tspan
+         id="tspan33944"><tspan
            style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan33802">erhöhung</tspan></tspan></text>
+           id="tspan33942">erhöhung</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,131.59513,368.2096)"
@@ -310,7 +310,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="958.90234"
          y="506.0293"
-         id="tspan33806">Treppenhaus</tspan></text>
+         id="tspan33946">Treppenhaus</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -323,6 +323,6 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect32146);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="346.23633"
          y="1024.6367"
-         id="tspan33808">evtl. im Ganzen noch um 90 oder 180° drehen?</tspan></text>
+         id="tspan33948">evtl. im Ganzen noch um 90 oder 180° drehen?</tspan></text>
   </g>
 </svg>
