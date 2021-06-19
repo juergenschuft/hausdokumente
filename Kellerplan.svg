@@ -24,17 +24,35 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0293026"
-     inkscape:cx="494.02382"
-     inkscape:cy="522.684"
+     inkscape:zoom="0.5146513"
+     inkscape:cx="736.42095"
+     inkscape:cy="666.47068"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5" />
+     inkscape:current-layer="layer6" />
   <defs
      id="defs2">
+    <rect
+       x="415.81552"
+       y="939.47106"
+       width="740.30708"
+       height="71.893338"
+       id="rect13287" />
+    <rect
+       x="1354.315"
+       y="1016.2221"
+       width="176.81875"
+       height="62.178022"
+       id="rect43989" />
+    <rect
+       x="75.779465"
+       y="143.78668"
+       width="194.9292"
+       height="172.27632"
+       id="rect6461" />
     <rect
        x="346.23618"
        y="989.24623"
@@ -77,6 +95,30 @@
        width="279.31531"
        height="106.38271"
        id="rect3919-9-6" />
+    <rect
+       x="75.779465"
+       y="143.78668"
+       width="194.9292"
+       height="172.27632"
+       id="rect6461-5" />
+    <rect
+       x="75.779465"
+       y="143.78668"
+       width="194.9292"
+       height="172.27632"
+       id="rect6461-6" />
+    <rect
+       x="958.90167"
+       y="484.79425"
+       width="1301.3666"
+       height="290.97372"
+       id="rect3919-6" />
+    <rect
+       x="958.90167"
+       y="484.79425"
+       width="1301.3666"
+       height="290.97372"
+       id="rect3919-6-2" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -458,14 +500,14 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-121.54881,9.0658508)"
+       transform="matrix(0.26458333,0,0,0.26458333,-121.54881,10.124184)"
        id="text3917"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="958.90234"
          y="520.18555"
-         id="tspan3575"><tspan
+         id="tspan21994"><tspan
            style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan3573">Aufzüge</tspan></tspan></text>
+           id="tspan21992">Aufzüge</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,130.82388,-15.126054)"
@@ -473,9 +515,9 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-4);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="958.90234"
          y="520.18555"
-         id="tspan3579"><tspan
+         id="tspan21998"><tspan
            style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan3577">Rampe</tspan></tspan></text>
+           id="tspan21996">Rampe</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,97.362915,-91.925709)"
@@ -483,15 +525,15 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-4-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="958.90234"
          y="515.18555"
-         id="tspan3583"><tspan
+         id="tspan22002"><tspan
            style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan3581">Druck-
+           id="tspan22000">Druck-
 </tspan></tspan><tspan
          x="958.90234"
          y="555.18555"
-         id="tspan3587"><tspan
+         id="tspan22006"><tspan
            style="font-size:24px;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan3585">erhöhung</tspan></tspan></text>
+           id="tspan22004">erhöhung</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,14.831888,461.71673)"
@@ -499,7 +541,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="958.90234"
          y="506.0293"
-         id="tspan3589">Treppenhaus</tspan></text>
+         id="tspan22008">Treppenhaus</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,-15.433908,466.87308)"
@@ -507,7 +549,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-9-6);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="958.90234"
          y="506.0293"
-         id="tspan3591">Müllraum</tspan></text>
+         id="tspan22010">Müllraum</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1131,5 +1173,110 @@
        height="14.999999"
        x="359.375"
        y="67.875" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Nummerierung und Legende">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,12.595502,28.404143)"
+       id="text6459"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.7;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6461);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="75.779297"
+         y="168.17773"
+         id="tspan22014"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan22012">K77
+</tspan></tspan><tspan
+         x="75.779297"
+         y="196.17773"
+         id="tspan22018"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan22016">12/3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-67.091449,131.37926)"
+       id="text3917-5"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-6);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="958.90234"
+         y="506.0293"
+         id="tspan22020">Kellernummer, welche auf den Gitterrahmen angebracht ist
+</tspan><tspan
+         x="958.90234"
+         y="536.0293"
+         id="tspan22022">Obergeschoss der zugehörigen Wohnung
+</tspan><tspan
+         x="958.90234"
+         y="566.0293"
+         id="tspan22024">Wohnungsnummer (= 3. Spalte von links auf dem Klingel- 
+</tspan><tspan
+         x="958.90234"
+         y="596.0293"
+         id="tspan22028">                                   <tspan
+   style="font-size:18.6667px"
+   id="tspan22026">     </tspan>tableau vor der Hauseingangstür)</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-413.78239,131.18392)"
+       id="text3917-5-2"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3919-6-2);display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="26.660156"
+       y="0"><tspan
+         x="2221.6426"
+         y="506.0293"
+         id="tspan22032"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan22030">77:
+</tspan></tspan><tspan
+         x="2221.6426"
+         y="536.0293"
+         id="tspan22036"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan22034">12:
+</tspan></tspan><tspan
+         x="2236.9121"
+         y="566.0293"
+         id="tspan22040"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan22038">3:</tspan></tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.249999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect14657-3-4-2"
+       width="13.500001"
+       height="21.75"
+       x="154.29633"
+       y="259.43719" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,135.7674,225.96639)"
+       id="text6459-1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.7;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6461-6);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="75.779297"
+         y="168.17773"
+         id="tspan22044"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan22042">K77
+</tspan></tspan><tspan
+         x="75.779297"
+         y="196.17773"
+         id="tspan22048"><tspan
+           style="font-size:18.6667px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan22046">12/3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text43987"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect43989)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,64.558368,-3.6666667e-8)"
+       id="text13285"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect13287);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="415.81641"
+         y="960.70508"
+         id="tspan22052"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif, Bold'"
+           id="tspan22050">Legende (Beispiel)</tspan></tspan></text>
   </g>
 </svg>
