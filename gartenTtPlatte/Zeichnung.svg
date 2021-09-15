@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.49766865"
-     inkscape:cx="387.80823"
-     inkscape:cy="1237.7714"
+     inkscape:zoom="0.70380975"
+     inkscape:cx="605.98762"
+     inkscape:cy="365.1555"
      inkscape:window-width="1920"
      inkscape:window-height="1005"
      inkscape:window-x="-9"
@@ -36,17 +36,65 @@
   <defs
      id="defs2">
     <rect
+       x="507.94977"
+       y="625.87936"
+       width="174.76314"
+       height="119.35044"
+       id="rect31851" />
+    <rect
+       x="696.92129"
+       y="171.92146"
+       width="118.64002"
+       height="69.621087"
+       id="rect28415" />
+    <rect
+       x="551.06947"
+       y="482.24858"
+       width="101.47314"
+       height="77.36071"
+       id="rect23228" />
+    <rect
+       x="563.62803"
+       y="745.47593"
+       width="198.92754"
+       height="189.88538"
+       id="rect6146" />
+    <rect
        x="335.56464"
        y="538.51091"
        width="419.95814"
        height="217.01186"
        id="rect7907" />
+    <rect
+       x="696.92126"
+       y="171.92146"
+       width="118.64002"
+       height="69.621086"
+       id="rect28415-8" />
+    <rect
+       x="696.92126"
+       y="171.92146"
+       width="118.64002"
+       height="69.621086"
+       id="rect28415-0" />
+    <rect
+       x="507.94977"
+       y="625.87933"
+       width="174.76314"
+       height="119.35044"
+       id="rect31851-7" />
+    <rect
+       x="696.92126"
+       y="171.92146"
+       width="118.64002"
+       height="69.621086"
+       id="rect28415-8-2" />
   </defs>
   <g
      inkscape:label="GoogleMaps"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline;opacity:0.4"
+     style="display:none;opacity:0.4"
      sodipodi:insensitive="true">
     <image
        width="1704.5366"
@@ -57,6 +105,22 @@
        x="-699.99402"
        y="-427.0213"
        style="stroke-width:0.196588" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="GoogleMaps.02"
+     style="display:inline;opacity:0.66"
+     sodipodi:insensitive="true">
+    <image
+       width="1008.8796"
+       height="567.49481"
+       preserveAspectRatio="none"
+       xlink:href="googleMaps.02.png"
+       id="image843"
+       x="-335.64294"
+       y="-166.46744"
+       style="stroke-width:0.420338" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -116,14 +180,200 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect7907);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="335.56445"
          y="573.90234"
-         id="tspan8882">Haus</tspan></text>
+         id="tspan34946">Haus</tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.00004;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect8783"
-       width="32.962025"
-       height="52.632912"
-       x="178.63525"
-       y="-9.8702211"
-       transform="rotate(21.194651)" />
+       width="28.457115"
+       height="46.094738"
+       x="180.91772"
+       y="-3.0796354"
+       transform="matrix(0.9299583,0.367665,-0.35548183,0.93468319,0,0)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect971"
+       width="15.417721"
+       height="16.746836"
+       x="143.54431"
+       y="121.74683" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect973"
+       width="21.797468"
+       height="19.405064"
+       x="145.13924"
+       y="192.98735" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect973-5"
+       width="21.797468"
+       height="19.405064"
+       x="117.17914"
+       y="259.2059"
+       transform="rotate(-39.519571)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-38.301319"
+       y="197.75243"
+       id="text3347"
+       transform="rotate(-69.389324)"><tspan
+         sodipodi:role="line"
+         id="tspan3345"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="-38.301319"
+         y="197.75243">Schaukel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="105.09768"
+       y="71.39991"
+       id="text3347-38"
+       transform="rotate(-18.954798)"><tspan
+         sodipodi:role="line"
+         id="tspan3345-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="105.09768"
+         y="71.39991">Grill-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="105.09768"
+         y="80.21936"
+         id="tspan26381">Platz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-74.924904"
+       y="223.69398"
+       id="text3347-3"
+       transform="rotate(-78.048266)"><tspan
+         sodipodi:role="line"
+         id="tspan4250"
+         x="-74.924904"
+         y="223.69398">Rutsche</tspan></text>
+    <rect
+       style="font-size:18.6667px;line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect21604"
+       width="16.215191"
+       height="13.025316"
+       x="204.30884"
+       y="81.583755"
+       transform="rotate(10.659439)" />
+    <rect
+       style="font-size:18.6667px;line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect21890"
+       width="5.1835442"
+       height="26.183542"
+       x="211.26788"
+       y="55.153404"
+       transform="rotate(11.560384)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.264583,0,0,0.264583,-1.4496287,-1.5874912)"
+       id="text23226"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect23228);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="551.07031"
+         y="496.4043"
+         id="tspan34948">Sand-
+</tspan><tspan
+         x="551.07031"
+         y="516.4043"
+         id="tspan34950">kasten</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect25101"
+       width="12.49367"
+       height="6.113924"
+       x="135.64825"
+       y="96.394341"
+       transform="rotate(-18.446535)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect25101-7"
+       width="12.49367"
+       height="6.113924"
+       x="207.01865"
+       y="-121.3645"
+       transform="rotate(55.388569)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect25101-7-9"
+       width="12.49367"
+       height="6.113924"
+       x="23.486595"
+       y="262.33536"
+       transform="rotate(-45.662471)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect25101-7-9-2"
+       width="12.49367"
+       height="6.113924"
+       x="-134.17323"
+       y="122.85593"
+       transform="rotate(-90.34841)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect25342"
+       width="28.70886"
+       height="28.70886"
+       x="97.624367"
+       y="60.593178"
+       transform="rotate(-19.867878)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.2502358,-0.08594407,0.08594407,0.2502358,-29.006708,66.246154)"
+       id="text28413"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect28415);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="696.92188"
+         y="186.07812"
+         id="tspan34952">Bank</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.18521486,-0.18894389,0.18894389,0.18521486,43.734534,266.54149)"
+       id="text28413-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect28415-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="696.92188"
+         y="186.07812"
+         id="tspan34954">Bank</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.00601072,-0.26451505,0.26451505,0.00601072,74.727468,316.06512)"
+       id="text28413-8-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect28415-8-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="696.92188"
+         y="186.07812"
+         id="tspan34956">Bank</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.14730333,0.21978642,-0.21978642,0.14730333,152.36488,-76.174338)"
+       id="text28413-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect28415-0);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="696.92188"
+         y="186.07812"
+         id="tspan34958">Bank</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,12.663118,31.954066)"
+       id="text31849"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31851);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="507.94922"
+         y="642.39456"
+         id="tspan34960">Tisch &amp;
+</tspan><tspan
+         x="507.94922"
+         y="665.72794"
+         id="tspan34962">Bänke</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.20202167,-0.17085545,0.17085545,0.20202167,50.466242,88.71661)"
+       id="text31849-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect31851-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="507.94922"
+         y="642.39456"
+         id="tspan34964">Tisch &amp;
+</tspan><tspan
+         x="507.94922"
+         y="665.72794"
+         id="tspan34966">Bänke</tspan></text>
   </g>
 </svg>
